@@ -1,6 +1,6 @@
 # Kelompok 14
 
-## Sistem Brankas Sederhana menggunakan Arduino
+## Sistem Brankas Sederhana Menggunakan Arduino
 
 ## Nama Anggota
 1. 16520086 - Jeremy Syaloom Okey Nathanael Simbolon
