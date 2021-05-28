@@ -13,4 +13,4 @@ Untuk menjamin keamanan barang yang rentan rusak, hilang, atau menjadi target pe
 Oleh karena itu, untuk mengatasi permasalahan tersebut, kami memilih solusi berupa sistem brankas dengan pengamanan berbasis mikrokontroler dengan sensor dan kode rahasia. Sistem tersebut memiliki fitur pendeteksi upaya pembobolan dengan alarm yang memanfaatkan komponen sensor PIR, fotoresistor, dan piezo serta fitur kode rahasia empat digit yang memanfaatkan komponen pushbutton dan mini servo. Kedua fitur tersebut juga dilengkapi dengan LCD serta indikator LED untuk membantu pengguna.
 
 ## Video
-Link video YouTube berisi penjelasan tentang tugas proyek.
+https://youtu.be/N6wD68qDktM
